@@ -1,0 +1,17 @@
+!table
+!version 300
+!charset WindowsSimpChinese
+
+Definition Table
+  Type NATIVE Charset "WindowsSimpChinese"
+  Fields 10
+    lxh Char (10) ;
+    dm1 Char (30) ;
+    dm2 Char (30) ;
+    d Char (15) ;
+    gc Char (15) ;
+    lxm Char (30) ;
+    dwm Char (80) ;
+    wylxh Char (30) ;
+    开始时间 Char (18) ;
+    结束时间 Char (18) ;

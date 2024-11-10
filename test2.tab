@@ -1,0 +1,17 @@
+!table
+!version 300
+!charset WindowsSimpChinese
+
+Definition Table
+  Type DBF Charset "Neutral"
+  Fields 10
+    Lxh Char (20) ;
+    Dm Char (40) ;
+    Ydm Char (20) ;
+    Jdh Decimal (9, 0) ;
+    H85 Char (20) ;
+    B Decimal (15, 10) ;
+    L Decimal (15, 10) ;
+    Ly Char (8) ;
+    M Char (10) ;
+    Hgd Decimal (13, 7) ;
